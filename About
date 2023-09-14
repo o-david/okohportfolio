@@ -1,0 +1,16 @@
+<section>
+    <h1>about</h1>
+    <P> your reliable crypto exchange platform for all crypto purchases and exchanges</P>
+    <!-- sqare bullet -->
+            <UL>
+                <li>bitcoin</li>
+                <LI>etherium</LI>
+                <LI>dogecoin</LI>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/vaV7nWfNYg0?si=CN2HGSbp-__E4WzH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+<li>cardano</li>
+<li>xrp</li>
+<li>usdt</li>
+<li>solana</li>
+<li>mooncoin</li>
+<li>litcoin</li>
+</section>
